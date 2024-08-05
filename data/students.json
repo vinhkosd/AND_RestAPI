@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Le Xa",
+    "className": "MD18401",
+    "avgPoints": 9.5
+  },
+  {
+    "id": 2,
+    "name": "LVJnh",
+    "className": "MD18401",
+    "avgPoints": 5.5
+  },
+  {
+    "id": 4,
+    "name": "Leo Messi",
+    "className": "MD18305",
+    "avgPoints": 6.5
+  },
+  {
+    "id": 5,
+    "name": "Cristiano Richa",
+    "className": "MD18305",
+    "avgPoints": 6.5
+  },
+  {
+    "id": 6,
+    "name": "Cristiano Ricon",
+    "className": "MD18305",
+    "avgPoints": 8.5
+  },
+  {
+    "id": 7,
+    "name": "Cristiano Ricon",
+    "className": "MD18305",
+    "avgPoints": 8.51
+  },
+  {
+    "id": 8,
+    "name": "Cristiano Rido",
+    "className": "MD18305",
+    "avgPoints": 8.5
+  }
+]
